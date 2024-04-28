@@ -1,0 +1,17 @@
+.DS_Store
+.cache
+
+# dependencies
+/node_modules
+/coverage
+
+# fes
+/src/.fes
+/src/.fes-production
+/src/.fes-test
+.env.local
+dist
+
+yarn.lock
+yarn-error.log
+package-lock.json
